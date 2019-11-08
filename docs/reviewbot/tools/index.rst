@@ -13,6 +13,7 @@ Review Bot Tools
    cppcheck
    cpplint
    flake8
+   gotool
    jshint
    pmd
    pycodestyle

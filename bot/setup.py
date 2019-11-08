@@ -31,6 +31,7 @@ setup(
             'cppcheck = reviewbot.tools.cppcheck:CPPCheckTool',
             'cpplint = reviewbot.tools.cpplint:CPPLintTool',
             'flake8 = reviewbot.tools.flake8:Flake8Tool',
+            'gotool = reviewbot.tools.go:GoTool',
             'jshint = reviewbot.tools.jshint:JSHintTool',
             'pmd = reviewbot.tools.pmd:PMDTool',
             'pycodestyle = reviewbot.tools.pycodestyle:PycodestyleTool',

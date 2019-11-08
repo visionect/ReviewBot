@@ -40,6 +40,9 @@ following tools:
 * `flake8 <https://www.reviewboard.org/docs/reviewbot/latest/tools/flake8/>`_
   – A wrapper around several Python code quality tools
 
+* `Go Tool <https://www.reviewboard.org/docs/reviewbot/latest/tools/gotool/>`_
+  – A static analysis tool for Go code
+
 * `PMD <https://www.reviewboard.org/docs/reviewbot/latest/tools/pmd/>`_
   – A static analysis tool that provides checkers for many languages
 
